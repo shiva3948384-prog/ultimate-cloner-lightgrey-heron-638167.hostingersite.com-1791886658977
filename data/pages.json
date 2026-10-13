@@ -1,0 +1,1561 @@
+{
+  "home": {
+    "id": "page-1",
+    "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/",
+    "slug": "home",
+    "title": "Flipkart big sale is live",
+    "metaDescription": "",
+    "category": "generic",
+    "products": [
+      {
+        "id": "prod-feed-iphone17",
+        "name": "Apple iPhone 17 Pro Max (Cosmic Orange, 256 GB)",
+        "price": "₹999",
+        "rawPrice": 999,
+        "originalPrice": "₹147900",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/f/v/m/-original-imahft6chnx2vbuy.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone17",
+        "inStock": true,
+        "rating": 4.6,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-iphone16",
+        "name": "Apple iPhone 16 Pro Max (Black Titanium, 256 GB)",
+        "price": "₹998",
+        "rawPrice": 998,
+        "originalPrice": "₹134900",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/w/z/h/-original-imahggetkf6y67sr.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone16",
+        "inStock": true,
+        "rating": 4.6,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-48dc90ee60e84",
+        "name": "Apple Iphone 16 (white, 256 Gb, 0 Mah)",
+        "price": "₹899",
+        "rawPrice": 899,
+        "originalPrice": "₹79900",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/h/u/i/-original-imahgfmyczqxhtm2.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=48dc90ee60e84",
+        "inStock": true,
+        "rating": 4.6,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-25d20c2b1dc5c",
+        "name": "Apple iPhone 15 Green, 356 GB, 3349 mAH",
+        "price": "₹898",
+        "rawPrice": 898,
+        "originalPrice": "₹69900",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=25d20c2b1dc5c",
+        "inStock": true,
+        "rating": 4.6,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-3d56e5edf6f38",
+        "name": "APPLEApple iPhone 17 (Black, 512 GB)",
+        "price": "₹997",
+        "rawPrice": 997,
+        "originalPrice": "₹102900",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/s/t/g/-original-imahft5gqkxzyeqa.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3d56e5edf6f38",
+        "inStock": true,
+        "rating": 4.6,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-0616698f3836c",
+        "name": "Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB) 12 GB RAM",
+        "price": "₹798",
+        "rawPrice": 798,
+        "originalPrice": "₹27998",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/p/u/z/-original-imahnfuybqryqmjw.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=0616698f3836c",
+        "inStock": true,
+        "rating": 4.4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-fe98d1b39b938",
+        "name": "OnePlus Nord 6 | 8GB+256GB | Fresh Mint | Snapdragon 8s Gen 4 | Segment's First Stable 165FPS Gaming | Segment's Largest 9000mAh Battery | Most Comple",
+        "price": "₹849",
+        "rawPrice": 849,
+        "originalPrice": "₹53750",
+        "currency": "₹",
+        "imageUrl": "https://m.media-amazon.com/images/I/41RwVEGf8cL.jpg",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=fe98d1b39b938",
+        "inStock": true,
+        "rating": 4.3,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-b360f7bd633df",
+        "name": "Nothing Phone (4b) (White, 256 GB) 8 GB RAM",
+        "price": "₹799",
+        "rawPrice": 799,
+        "originalPrice": "₹40999",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/j/r/r/-original-imahpfrk8py5nk5e.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=b360f7bd633df",
+        "inStock": true,
+        "rating": 4.4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-d3ae32bfa5521",
+        "name": "OnePlus 15 | 12GB+256GB | Sand Storm | India's First Snapdragon® 8 Elite Gen 5 | 7300mAh Battery | Personalised AI | Game-Changing 165Hz Display | Tri",
+        "price": "₹799",
+        "rawPrice": 799,
+        "originalPrice": "₹45499",
+        "currency": "₹",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Z3zn7d+JL.jpg",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=d3ae32bfa5521",
+        "inStock": true,
+        "rating": 4.6,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-a7ebec5ac987b",
+        "name": "Samsung Galaxy S25 5g (icyblue, 256 Gb, 4000 Mah)",
+        "price": "₹899",
+        "rawPrice": 899,
+        "originalPrice": "₹79999",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/s/k/z/-original-imahggexgfcf3hpf.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=a7ebec5ac987b",
+        "inStock": true,
+        "rating": 4.6,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-a69a084d6f401",
+        "name": "boAt Airdopes Alpha,35H Battery, 13mm Drivers,ENx, Stream Ad Free Music via App Bluetooth Headset Deep Blue, In the Ear",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1169",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/r/c/j/-original-imahae3ea2j4mhkt.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=a69a084d6f401",
+        "inStock": true,
+        "rating": 4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-923d3541c3f98",
+        "name": "Noise Air Buds 3 with 45 Hours Playtime, Environmental Noise Cancellation, Quad Mic Bluetooth Headset Serene White, True Wireless",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹4499",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/c/9/s/-original-imagt3xpbsx5brs2.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=923d3541c3f98",
+        "inStock": true,
+        "rating": 3.7,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-2bc6ece01411b",
+        "name": "GoboultGOBOULT W40 with 4 Mic ENC, 48H Battery Life, Low Latency Gaming, 5.3v Bluetooth Headset (Khaki Green, True Wireless)",
+        "price": "₹399",
+        "rawPrice": 399,
+        "originalPrice": "₹899",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/h/u/l/-enriched-transparent-original-imahej2reqy6auhj.png?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=2bc6ece01411b",
+        "inStock": true,
+        "rating": 4.1,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-a77f4d8cdcc21",
+        "name": "Fire-Boltt Rise Luxe Bluetooth Calling 47mm (1.85), Metal Body & Rotating Crown, 123 Sports Smartwatch Silver Millanese Strap, Free Size",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1699",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/w/k/u/-original-imahauh2ugz3ccd3.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=a77f4d8cdcc21",
+        "inStock": true,
+        "rating": 4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-000f3dabc1f59",
+        "name": "Fire-Boltt Fire-Boltt Ninja Talk 35.3mm (1.39) Round Bluetooth Calling Metal Body,120 Sports Modes Smartwatch (Mocha Mouse Strap, Free Size)",
+        "price": "₹599",
+        "rawPrice": 599,
+        "originalPrice": "₹11999",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/i/n/j/-enriched-transparent-original-imahjkzuypzhdyss.png?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=000f3dabc1f59",
+        "inStock": true,
+        "rating": 4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-2ce01e777f0ff",
+        "name": "DailyObjects Loop Qi2 Certified Mag-Safe Compatible Aluminium Wireless Power Bank|5000 Mah|Fast Charging 20W|Compatible with Samsung/OnePlus/iPhone 12",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹3998",
+        "currency": "₹",
+        "imageUrl": "https://m.media-amazon.com/images/I/41URAns1RpL.jpg",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=2ce01e777f0ff",
+        "inStock": true,
+        "rating": 3.8,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-57de2486b28f2",
+        "name": "Xiaomi Power Bank 4i 10000mAh 22.5W Fast Charging PD|Smart 12 Layer Protection| Durable Steel Casing |Triple Output Ports|Supports All Phone(MI Power",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1120",
+        "currency": "₹",
+        "imageUrl": "https://m.media-amazon.com/images/I/21O3wS9E52L.jpg",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=57de2486b28f2",
+        "inStock": true,
+        "rating": 4.2,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-03bec70674cef",
+        "name": "Ambrane 20000mAh Small Pocket Size Powerbank, Hanging InBuilt Type C Cable, 22.5W Fast Charging, Type C PD & USB Output for iPhone, Android Mobiles &",
+        "price": "₹199",
+        "rawPrice": 199,
+        "originalPrice": "₹1539",
+        "currency": "₹",
+        "imageUrl": "https://m.media-amazon.com/images/I/31g+vblroSL.jpg",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=03bec70674cef",
+        "inStock": true,
+        "rating": 4.2,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-571dd48a19540",
+        "name": "OnePlus Nord Buds 3r TWS Earbud, 10min charge for 8hr Music, 3D Audio, 2-mic call Bluetooth Headset Aura Blue, True Wireless",
+        "price": "₹199",
+        "rawPrice": 199,
+        "originalPrice": "₹679",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/p/t/b/-enriched-transparent-original-imahf9daxb97keh5.png?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=571dd48a19540",
+        "inStock": true,
+        "rating": 4.4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-f0c4f2268d872",
+        "name": "Noise Buds Verve 2 with 50Hr Playtime, ENC, Quad Mic & Ultra low latency Bluetooth Headset (Stone Beige, True Wireless)",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1199",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/x/w/f/-original-imahegzunef3qg7j.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=f0c4f2268d872",
+        "inStock": true,
+        "rating": 4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-373f04b573c81",
+        "name": "Noise ALT Buds(S), 45Hrs Playtime, Quad mic ENC, App Support, Instacharge,Dual Pairing Bluetooth Headset Chosen Blue, True Wireless",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1899",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/f/e/m/-original-imahpffwmnrs2hrv.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=373f04b573c81",
+        "inStock": true,
+        "rating": 4.5,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-0467e5a892406",
+        "name": "Fire-Boltt Talk 35.3mm (1.39) Bluetooth Calling with SpO2, Metal Body & Luxury Design Smartwatch Milange Grey Strap, 46",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1399",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/5/b/f/-original-imahcf2vvgrfbwp2.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=0467e5a892406",
+        "inStock": true,
+        "rating": 4.1,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-49a62e6801665",
+        "name": "boAt Wave Fury Smartwatch (Active Black Strap, Free Size)",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1499",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/v/8/r/-original-imagy97z4qgjheyn.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=49a62e6801665",
+        "inStock": true,
+        "rating": 4.1,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-cc814d239bcae",
+        "name": "GOBOULT Mustang Racer 1.43\" AMOLED, Premium Crown, Working Paddler, AI Coach, AOD, IP67 Smartwatch Black Blaze Strap, Free Size",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹3499",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/u/m/v/-original-imahkyvezfm87juz.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=cc814d239bcae",
+        "inStock": true,
+        "rating": 4.5,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-1b127c7e3ff53",
+        "name": "boAt Airdopes 111v2, Leather Finish,4Mics ENx, Stream Ad Free Music via App Support Bluetooth Headset Ivory White, True Wireless",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1174",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/o/y/e/-enriched-transparent-original-imahgnf4en7phfvt.png?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=1b127c7e3ff53",
+        "inStock": true,
+        "rating": 4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-dac72273679cb",
+        "name": "OnePlus Nord Buds 3 with up to 32dB ANC Bluetooth Headset Harmonic Gray, True Wireless",
+        "price": "₹199",
+        "rawPrice": 199,
+        "originalPrice": "₹1799",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/r/3/g/-enriched-transparent-original-imah4d4k5s3wtupu.png?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=dac72273679cb",
+        "inStock": true,
+        "rating": 4.3,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-3c7095e46b323",
+        "name": "Cmf By Nothing Buds 2 48 Db Hybrid Anc, Ultra Bass Technology 2.0, 55 Hrs Playtime Bluetooth",
+        "price": "₹99",
+        "rawPrice": 99,
+        "originalPrice": "₹398",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/y/l/r/-enriched-transparent-original-imahhucjgtygheq5.png?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3c7095e46b323",
+        "inStock": true,
+        "rating": 4.3,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-3d137704666aa",
+        "name": "Noise Buds N1 Pro With Metallic Finish, 32db Anc, 60h Playtime And Instacharge,Bt5.3 Bluetooth",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1399",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/y/z/v/-original-imahg82hj2ghjxgv.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3d137704666aa",
+        "inStock": true,
+        "rating": 3.9,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-6771088295a8e",
+        "name": "realme Buds Air7 with 52dB ANC, 12.4mm Driver, 52hrs Playback, IP55 & 45ms Low Latency Bluetooth Headset Ivory Gold, True Wireless",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹3087",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/0/t/n/-original-imahaumhdxxgaxzw.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=6771088295a8e",
+        "inStock": true,
+        "rating": 4.4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-4ab42480d26ab",
+        "name": "Noise Pro 6 Max Smart Watch:Intelligent AI, Endless AI Watch Faces, AI Companion, 1.96” AMOLED, Stainless Steel Build, Built-in GPS, 5 ATM, EN2 Proces",
+        "price": "₹598",
+        "rawPrice": 598,
+        "originalPrice": "₹7999",
+        "currency": "₹",
+        "imageUrl": "https://m.media-amazon.com/images/I/41N4+Os59eL.jpg",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=4ab42480d26ab",
+        "inStock": true,
+        "rating": 4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-ed572399d7ed0",
+        "name": "Boat Storm Call 3 W/Tbt Navigation,Watch Face Studio,1.83''4.6 Cmhd Display,Qr Tray Smartwatch",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1399",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/p/3/t/-original-imahy7fhzhwbugaf.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=ed572399d7ed0",
+        "inStock": true,
+        "rating": 4.1,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-b2f01fa8aaf09",
+        "name": "Cmf By Nothing Watch Pro 2, 1.32 Amoled, Auto-brightness,Gesture Control, 3d Warmup Guide,Gps Smartwatch",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹3999",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/y/q/h/-enriched-transparent-original-imah2gmfunhhascz.png?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=b2f01fa8aaf09",
+        "inStock": true,
+        "rating": 4.4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-156b72f954ad8",
+        "name": "boAt Stone 352 Pro/Stone 358 Pro w/ 14W Signature Sound, Up to 12 Hours Playback, RGB LEDs, TWS Feature, Built-in Mic, BTv5.3, Free Music Streaming on",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1499",
+        "currency": "₹",
+        "imageUrl": "https://m.media-amazon.com/images/I/41akA9Ib0kL.jpg",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=156b72f954ad8",
+        "inStock": true,
+        "rating": 4.2,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-051622ce4fc31",
+        "name": "XIAOMI Sound Outdoor Speaker (Black) | 30W Hi-Quality Speaker with Mic | Upto 12hrs Playback Time | IP67 Waterproof & Type C | Wireless Stereo Pairing",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹3729",
+        "currency": "₹",
+        "imageUrl": "https://m.media-amazon.com/images/I/31Hm2SoCMtL.jpg",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=051622ce4fc31",
+        "inStock": true,
+        "rating": 4.4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-ea0583c5b9ae3",
+        "name": "Mivi Fort Hip-Hop 4000 400 Watts Cinematic Home Theatre, 5.1 Channel, Multiple EQ & Input Modes, BT v5.3, Remote Accessibility, Made in India Sound ba",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹12025",
+        "currency": "₹",
+        "imageUrl": "https://m.media-amazon.com/images/I/41vOSsVvosL.jpg",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=ea0583c5b9ae3",
+        "inStock": true,
+        "rating": 3.5,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-b327846273eae",
+        "name": "AGARO 34028 Galaxy Digital Air Fryer For Home, Electric Air Fryer, Convection Oven, 1400W Air Fryer 4.5 L",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹3950",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/air-fryer/r/0/r/black-4-5-1400-34028-agaro-original-imahmfygfydkfbtz.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=b327846273eae",
+        "inStock": true,
+        "rating": 4.4,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-92787842293f6",
+        "name": "KENT Electric Chopper-B for Kitchen 300 Watt | Chop, Mince, Puree, Whisk, 400 ml Capacity | Stainless Steel Double Chopping Blades | Transparent Chopp",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1199",
+        "currency": "₹",
+        "imageUrl": "https://m.media-amazon.com/images/I/412KLyH0YGL.jpg",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=92787842293f6",
+        "inStock": true,
+        "rating": 3.8,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      },
+      {
+        "id": "prod-feed-17437576b5e8f",
+        "name": "boAt Airdopes 121 Pro Plus, 100H Battery, ENx, (~50ms) BEAST Mode,ASAP Charge,BT v5.3 Bluetooth Headset Blue, True Wireless",
+        "price": "₹499",
+        "rawPrice": 499,
+        "originalPrice": "₹1199",
+        "currency": "₹",
+        "imageUrl": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/s/a/o/-original-imahpshaughberdd.jpeg?q=90",
+        "productUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=17437576b5e8f",
+        "inStock": true,
+        "rating": 3.9,
+        "reviewsCount": 500,
+        "source": "json-ld"
+      }
+    ],
+    "headings": [],
+    "links": [
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/",
+        "text": "Mobiles",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone17",
+        "text": "Apple iPhone 17 Pro Max (Cosmic Orange, 256 GB) (500) ↓99% ₹1,47,900 ₹999 ₹999 w",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone16",
+        "text": "Apple iPhone 16 Pro Max (Black Titanium, 256 GB) (500) ↓99% ₹1,34,900 ₹998 ₹998 ",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=48dc90ee60e84",
+        "text": "Apple Iphone 16 (white, 256 Gb, 0 Mah) (500) ↓99% ₹79,900 ₹899 ₹899 with offer O",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=25d20c2b1dc5c",
+        "text": "Apple iPhone 15 Green, 356 GB, 3349 mAH (500) ↓99% ₹69,900 ₹898 ₹898 with offer ",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3d56e5edf6f38",
+        "text": "APPLEApple iPhone 17 (Black, 512 GB) (500) ↓99% ₹1,02,900 ₹997 ₹997 with offer T",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=0616698f3836c",
+        "text": "Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB) 12 GB RAM (500) ↓97% ₹27,998 ₹798 ₹79",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=fe98d1b39b938",
+        "text": "OnePlus Nord 6 | 8GB+256GB | Fresh Mint | Snapdragon 8s Gen 4 | Segment's First ",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=b360f7bd633df",
+        "text": "Nothing Phone (4b) (White, 256 GB) 8 GB RAM (500) ↓98% ₹40,999 ₹799 ₹799 with of",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=d3ae32bfa5521",
+        "text": "OnePlus 15 | 12GB+256GB | Sand Storm | India's First Snapdragon® 8 Elite Gen 5 |",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=a7ebec5ac987b",
+        "text": "Samsung Galaxy S25 5g (icyblue, 256 Gb, 4000 Mah) (500) ↓99% ₹79,999 ₹899 ₹899 w",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/xxx/fk.png",
+        "alt": "Top Banner",
+        "width": 100
+      },
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/photo_2026-09-01_22-33-02.jpg",
+        "alt": "Freedom Sale",
+        "width": 100
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/fk-p-flap/106/106/image/86a19de055a5ae2c.jpg",
+        "alt": "Mobiles"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/fk-p-flap/106/106/image/9af2825c1882cb09.jpg",
+        "alt": "Electronics"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/fk-p-flap/106/106/image/cba3261ad6af85cf.png",
+        "alt": "Appliances"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/fk-p-flap/106/106/image/15d49cf205683c05.jpg",
+        "alt": "Furniture"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/fk-p-flap/106/106/image/987e8204a510854d.png",
+        "alt": "Grocery"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/f/v/m/-original-imahft6chnx2vbuy.jpeg?q=90",
+        "alt": "Apple iPhone 17 Pro Max (Cosmic Orange, 256 GB)"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/www/120/32/promos/25/06/2024/71af54bd-9160-41ff-81cc-c55e534dedeb.png?q=60",
+        "alt": "Assured"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/www/92/39/promos/30/08/2023/59dc7885-72bf-4135-9099-025f074b0eb1.png?q=90",
+        "alt": "WOW"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/w/z/h/-original-imahggetkf6y67sr.jpeg?q=90",
+        "alt": "Apple iPhone 16 Pro Max (Black Titanium, 256 GB)"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/h/u/i/-original-imahgfmyczqxhtm2.jpeg?q=90",
+        "alt": "Apple Iphone 16 (white, 256 Gb, 0 Mah)"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=90",
+        "alt": "Apple iPhone 15 Green, 356 GB, 3349 mAH"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/s/t/g/-original-imahft5gqkxzyeqa.jpeg?q=90",
+        "alt": "APPLEApple iPhone 17 (Black, 512 GB)"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/p/u/z/-original-imahnfuybqryqmjw.jpeg?q=90",
+        "alt": "Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB) 12 GB RAM"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/41RwVEGf8cL.jpg",
+        "alt": "OnePlus Nord 6 | 8GB+256GB | Fresh Mint | Snapdragon 8s Gen 4 | Segment's First Stable 165FPS Gaming | Segment's Largest 9000mAh Battery | Most Comple"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/j/r/r/-original-imahpfrk8py5nk5e.jpeg?q=90",
+        "alt": "Nothing Phone (4b) (White, 256 GB) 8 GB RAM"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/41Z3zn7d+JL.jpg",
+        "alt": "OnePlus 15 | 12GB+256GB | Sand Storm | India's First Snapdragon® 8 Elite Gen 5 | 7300mAh Battery | Personalised AI | Game-Changing 165Hz Display | Tri"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/s/k/z/-original-imahggexgfcf3hpf.jpeg?q=90",
+        "alt": "Samsung Galaxy S25 5g (icyblue, 256 Gb, 4000 Mah)"
+      }
+    ]
+  },
+  "products-index-php-id-iphone17": {
+    "id": "page-2",
+    "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone17",
+    "slug": "products-index-php-id-iphone17",
+    "title": "Online Shopping",
+    "metaDescription": "",
+    "category": "generic",
+    "products": [],
+    "headings": [
+      {
+        "level": 4,
+        "text": "Color"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=571dd48a19540",
+        "text": "OnePlus Nord Buds 3r TWS Earbud, 10min charge for 8hr Music, 3D Audio, 2-mic cal",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=373f04b573c81",
+        "text": "Noise ALT Buds(S), 45Hrs Playtime, Quad mic ENC, App Support, Instacharge,Dual P",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=03bec70674cef",
+        "text": "Ambrane 20000mAh Small Pocket Size Powerbank, Hanging InBuilt Type C Cable, 22.5",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=1b127c7e3ff53",
+        "text": "boAt Airdopes 111v2, Leather Finish,4Mics ENx, Stream Ad Free Music via App Supp",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3d56e5edf6f38",
+        "text": "APPLEApple iPhone 17 (Black, 512 GB) 99% off₹1,02,900₹997 (4.6)",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=92787842293f6",
+        "text": "KENT Electric Chopper-B for Kitchen 300 Watt | Chop, Mince, Puree, Whisk, 400 ml",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=2bc6ece01411b",
+        "text": "GoboultGOBOULT W40 with 4 Mic ENC, 48H Battery Life, Low Latency Gaming, 5.3v Bl",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=ed572399d7ed0",
+        "text": "Boat Storm Call 3 W/Tbt Navigation,Watch Face Studio,1.83''4.6 Cmhd Display,Qr T",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3c7095e46b323",
+        "text": "Cmf By Nothing Buds 2 48 Db Hybrid Anc, Ultra Bass Technology 2.0, 55 Hrs Playti",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=b327846273eae",
+        "text": "AGARO 34028 Galaxy Digital Air Fryer For Home, Electric Air Fryer, Convection Ov",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone17",
+        "text": "Become a Seller",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/xxx/fliplpogo.png",
+        "alt": "menu",
+        "height": 30
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/f/v/m/-original-imahft6chnx2vbuy.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/m/n/c/-original-imahft6c3rbjysmg.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/t/1/p/-original-imahft6cag2fggja.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/x/c/q/-original-imahft5njwbfyz5u.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/z/v/8/-original-imahft6cjegrw5sj.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/p/o/c/-original-imahft5nzmgz2agc.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/cK2M2f5z/truck.webp",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/4MtgWPp/Wow-Deal300ppi.png",
+        "alt": "Wow"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/h1HLgdM7/Screenshot-20251109-233352.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/p/t/b/-enriched-transparent-original-imahf9daxb97keh5.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/f/e/m/-original-imahpffwmnrs2hrv.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/31g+vblroSL.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/o/y/e/-enriched-transparent-original-imahgnf4en7phfvt.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/s/t/g/-original-imahft5gqkxzyeqa.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/412KLyH0YGL.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/h/u/l/-enriched-transparent-original-imahej2reqy6auhj.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/p/3/t/-original-imahy7fhzhwbugaf.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/y/l/r/-enriched-transparent-original-imahhucjgtygheq5.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/air-fryer/r/0/r/black-4-5-1400-34028-agaro-original-imahmfygfydkfbtz.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/payment-method_69e7ec.svg",
+        "alt": "Page visual asset"
+      }
+    ]
+  },
+  "products-index-php-id-iphone16": {
+    "id": "page-3",
+    "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone16",
+    "slug": "products-index-php-id-iphone16",
+    "title": "Online Shopping",
+    "metaDescription": "",
+    "category": "generic",
+    "products": [],
+    "headings": [
+      {
+        "level": 4,
+        "text": "Color"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=d3ae32bfa5521",
+        "text": "OnePlus 15 | 12GB+256GB | Sand Storm | India's First Snapdragon® 8 Elite Gen 5 |",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=f0c4f2268d872",
+        "text": "Noise Buds Verve 2 with 50Hr Playtime, ENC, Quad Mic & Ultra low latency Bluetoo",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=17437576b5e8f",
+        "text": "boAt Airdopes 121 Pro Plus, 100H Battery, ENx, (~50ms) BEAST Mode,ASAP Charge,BT",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=92787842293f6",
+        "text": "KENT Electric Chopper-B for Kitchen 300 Watt | Chop, Mince, Puree, Whisk, 400 ml",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone17",
+        "text": "Apple iPhone 17 Pro Max (Cosmic Orange, 256 GB) 99% off₹1,47,900₹999 (4.6)",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=48dc90ee60e84",
+        "text": "Apple Iphone 16 (white, 256 Gb, 0 Mah) 99% off₹79,900₹899 (4.6)",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=25d20c2b1dc5c",
+        "text": "Apple iPhone 15 Green, 356 GB, 3349 mAH 99% off₹69,900₹898 (4.6)",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3d56e5edf6f38",
+        "text": "APPLEApple iPhone 17 (Black, 512 GB) 99% off₹1,02,900₹997 (4.6)",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=0616698f3836c",
+        "text": "Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB) 12 GB RAM 97% off₹27,998₹798 (4.4)",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=373f04b573c81",
+        "text": "Noise ALT Buds(S), 45Hrs Playtime, Quad mic ENC, App Support, Instacharge,Dual P",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone16",
+        "text": "Become a Seller",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/xxx/fliplpogo.png",
+        "alt": "menu",
+        "height": 30
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/w/z/h/-original-imahggetkf6y67sr.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/7/y/e/-original-imahggetucrkc5ty.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/s/g/t/-original-imahggetecvfkzha.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/2/x/3/-original-imahggetnsszzspg.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/s/q/r/-original-imahggessqugbgtn.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/d/o/r/-original-imahfvx3ywpmyexy.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/cK2M2f5z/truck.webp",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/4MtgWPp/Wow-Deal300ppi.png",
+        "alt": "Wow"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/h1HLgdM7/Screenshot-20251109-233352.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/41Z3zn7d+JL.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/x/w/f/-original-imahegzunef3qg7j.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/s/a/o/-original-imahpshaughberdd.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/412KLyH0YGL.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/f/v/m/-original-imahft6chnx2vbuy.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/h/u/i/-original-imahgfmyczqxhtm2.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/s/t/g/-original-imahft5gqkxzyeqa.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/p/u/z/-original-imahnfuybqryqmjw.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/f/e/m/-original-imahpffwmnrs2hrv.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/payment-method_69e7ec.svg",
+        "alt": "Page visual asset"
+      }
+    ]
+  },
+  "products-index-php-id-48dc90ee60e84": {
+    "id": "page-4",
+    "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=48dc90ee60e84",
+    "slug": "products-index-php-id-48dc90ee60e84",
+    "title": "Online Shopping",
+    "metaDescription": "",
+    "category": "generic",
+    "products": [],
+    "headings": [
+      {
+        "level": 4,
+        "text": "Color"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=03bec70674cef",
+        "text": "Ambrane 20000mAh Small Pocket Size Powerbank, Hanging InBuilt Type C Cable, 22.5",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=923d3541c3f98",
+        "text": "Noise Air Buds 3 with 45 Hours Playtime, Environmental Noise Cancellation, Quad ",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=b360f7bd633df",
+        "text": "Nothing Phone (4b) (White, 256 GB) 8 GB RAM 98% off₹40,999₹799 (4.4)",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=dac72273679cb",
+        "text": "OnePlus Nord Buds 3 with up to 32dB ANC Bluetooth Headset Harmonic Gray, True Wi",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone17",
+        "text": "Apple iPhone 17 Pro Max (Cosmic Orange, 256 GB) 99% off₹1,47,900₹999 (4.6)",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=92787842293f6",
+        "text": "KENT Electric Chopper-B for Kitchen 300 Watt | Chop, Mince, Puree, Whisk, 400 ml",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=f0c4f2268d872",
+        "text": "Noise Buds Verve 2 with 50Hr Playtime, ENC, Quad Mic & Ultra low latency Bluetoo",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=000f3dabc1f59",
+        "text": "Fire-Boltt Fire-Boltt Ninja Talk 35.3mm (1.39) Round Bluetooth Calling Metal Bod",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=b327846273eae",
+        "text": "AGARO 34028 Galaxy Digital Air Fryer For Home, Electric Air Fryer, Convection Ov",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=57de2486b28f2",
+        "text": "Xiaomi Power Bank 4i 10000mAh 22.5W Fast Charging PD|Smart 12 Layer Protection| ",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=48dc90ee60e84",
+        "text": "Become a Seller",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/xxx/fliplpogo.png",
+        "alt": "menu",
+        "height": 30
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/h/u/i/-original-imahgfmyczqxhtm2.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/9/y/5/-original-imahfvx3frctnyej.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/m/g/x/-original-imahfvx3vtgphzga.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/b/k/1/-original-imahfvx3yzjcyufw.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/j/o/f/-original-imahfvx3gfzzy2uk.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/r/b/x/-original-imahfvx3khzd8e4u.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/d/o/r/-original-imahfvx3ywpmyexy.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/z/7/m/-original-imahfvx3tzcgbefg.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/r/z/s/-original-imahfvx3gkzzpjud.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/cK2M2f5z/truck.webp",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/4MtgWPp/Wow-Deal300ppi.png",
+        "alt": "Wow"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/h1HLgdM7/Screenshot-20251109-233352.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/31g+vblroSL.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/c/9/s/-original-imagt3xpbsx5brs2.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/j/r/r/-original-imahpfrk8py5nk5e.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/r/3/g/-enriched-transparent-original-imah4d4k5s3wtupu.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/f/v/m/-original-imahft6chnx2vbuy.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/412KLyH0YGL.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/x/w/f/-original-imahegzunef3qg7j.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/i/n/j/-enriched-transparent-original-imahjkzuypzhdyss.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/air-fryer/r/0/r/black-4-5-1400-34028-agaro-original-imahmfygfydkfbtz.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/21O3wS9E52L.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/payment-method_69e7ec.svg",
+        "alt": "Page visual asset"
+      }
+    ]
+  },
+  "products-index-php-id-25d20c2b1dc5c": {
+    "id": "page-5",
+    "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=25d20c2b1dc5c",
+    "slug": "products-index-php-id-25d20c2b1dc5c",
+    "title": "Online Shopping",
+    "metaDescription": "",
+    "category": "generic",
+    "products": [],
+    "headings": [
+      {
+        "level": 4,
+        "text": "Color"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3c7095e46b323",
+        "text": "Cmf By Nothing Buds 2 48 Db Hybrid Anc, Ultra Bass Technology 2.0, 55 Hrs Playti",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=d3ae32bfa5521",
+        "text": "OnePlus 15 | 12GB+256GB | Sand Storm | India's First Snapdragon® 8 Elite Gen 5 |",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=2bc6ece01411b",
+        "text": "GoboultGOBOULT W40 with 4 Mic ENC, 48H Battery Life, Low Latency Gaming, 5.3v Bl",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=ea0583c5b9ae3",
+        "text": "Mivi Fort Hip-Hop 4000 400 Watts Cinematic Home Theatre, 5.1 Channel, Multiple E",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=4ab42480d26ab",
+        "text": "Noise Pro 6 Max Smart Watch:Intelligent AI, Endless AI Watch Faces, AI Companion",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=571dd48a19540",
+        "text": "OnePlus Nord Buds 3r TWS Earbud, 10min charge for 8hr Music, 3D Audio, 2-mic cal",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=923d3541c3f98",
+        "text": "Noise Air Buds 3 with 45 Hours Playtime, Environmental Noise Cancellation, Quad ",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=49a62e6801665",
+        "text": "boAt Wave Fury Smartwatch (Active Black Strap, Free Size) 67% off₹1,499₹499 (4.1",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3d137704666aa",
+        "text": "Noise Buds N1 Pro With Metallic Finish, 32db Anc, 60h Playtime And Instacharge,B",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=a77f4d8cdcc21",
+        "text": "Fire-Boltt Rise Luxe Bluetooth Calling 47mm (1.85), Metal Body & Rotating Crown,",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=25d20c2b1dc5c",
+        "text": "Become a Seller",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/xxx/fliplpogo.png",
+        "alt": "menu",
+        "height": 30
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/2/7/h/-original-imagtc5fyznz42bx.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/u/m/3/-original-imagtc5ffhbausfy.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/d/k/t/-original-imah4xe6cff8cejm.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/4/b/j/-original-imah4xe6hwmfyxdn.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/a/v/k/-original-imagtc5fx9jzazdy.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/i/h/z/-original-imagtc5fbxefnjtj.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/l/g/s/-original-imah4xe6e9gsvyeh.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/r/s/1/-original-imagtc5fxxhhgtrz.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/cK2M2f5z/truck.webp",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/4MtgWPp/Wow-Deal300ppi.png",
+        "alt": "Wow"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/h1HLgdM7/Screenshot-20251109-233352.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/y/l/r/-enriched-transparent-original-imahhucjgtygheq5.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/41Z3zn7d+JL.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/h/u/l/-enriched-transparent-original-imahej2reqy6auhj.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/41vOSsVvosL.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/41N4+Os59eL.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/p/t/b/-enriched-transparent-original-imahf9daxb97keh5.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/c/9/s/-original-imagt3xpbsx5brs2.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/v/8/r/-original-imagy97z4qgjheyn.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/y/z/v/-original-imahg82hj2ghjxgv.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/w/k/u/-original-imahauh2ugz3ccd3.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/payment-method_69e7ec.svg",
+        "alt": "Page visual asset"
+      }
+    ]
+  },
+  "products-index-php-id-3d56e5edf6f38": {
+    "id": "page-6",
+    "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3d56e5edf6f38",
+    "slug": "products-index-php-id-3d56e5edf6f38",
+    "title": "Online Shopping",
+    "metaDescription": "",
+    "category": "generic",
+    "products": [],
+    "headings": [
+      {
+        "level": 4,
+        "text": "Color"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=d3ae32bfa5521",
+        "text": "OnePlus 15 | 12GB+256GB | Sand Storm | India's First Snapdragon® 8 Elite Gen 5 |",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=000f3dabc1f59",
+        "text": "Fire-Boltt Fire-Boltt Ninja Talk 35.3mm (1.39) Round Bluetooth Calling Metal Bod",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=b2f01fa8aaf09",
+        "text": "Cmf By Nothing Watch Pro 2, 1.32 Amoled, Auto-brightness,Gesture Control, 3d War",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=a69a084d6f401",
+        "text": "boAt Airdopes Alpha,35H Battery, 13mm Drivers,ENx, Stream Ad Free Music via App ",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=571dd48a19540",
+        "text": "OnePlus Nord Buds 3r TWS Earbud, 10min charge for 8hr Music, 3D Audio, 2-mic cal",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=25d20c2b1dc5c",
+        "text": "Apple iPhone 15 Green, 356 GB, 3349 mAH 99% off₹69,900₹898 (4.6)",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=0467e5a892406",
+        "text": "Fire-Boltt Talk 35.3mm (1.39) Bluetooth Calling with SpO2, Metal Body & Luxury D",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=a7ebec5ac987b",
+        "text": "Samsung Galaxy S25 5g (icyblue, 256 Gb, 4000 Mah) 99% off₹79,999₹899 (4.6)",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=1b127c7e3ff53",
+        "text": "boAt Airdopes 111v2, Leather Finish,4Mics ENx, Stream Ad Free Music via App Supp",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=a77f4d8cdcc21",
+        "text": "Fire-Boltt Rise Luxe Bluetooth Calling 47mm (1.85), Metal Body & Rotating Crown,",
+        "isInternal": true
+      },
+      {
+        "href": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3d56e5edf6f38",
+        "text": "Become a Seller",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/xxx/fliplpogo.png",
+        "alt": "menu",
+        "height": 30
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/s/t/g/-original-imahft5gqkxzyeqa.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/j/u/q/-original-imahft5ghcbnw9hy.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/h/m/i/-original-imahft5grd3ykkgt.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/t/j/g/-original-imahft5gh6hf2cuj.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/k/8/6/-original-imahft5geqtza98s.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/d/c/x/-original-imahft5gveszbamr.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/7/m/d/-original-imahft5gxkectxe4.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/l/h/q/-original-imahft5gbxzdk5nr.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/b/t/1/-original-imahft5gbpfuhuph.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/h/k/q/-original-imahft5gb66vghzd.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/l/z/q/-original-imahft57f3qjg325.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/cK2M2f5z/truck.webp",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/4MtgWPp/Wow-Deal300ppi.png",
+        "alt": "Wow"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://i.ibb.co/h1HLgdM7/Screenshot-20251109-233352.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://m.media-amazon.com/images/I/41Z3zn7d+JL.jpg",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/i/n/j/-enriched-transparent-original-imahjkzuypzhdyss.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/y/q/h/-enriched-transparent-original-imah2gmfunhhascz.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/r/c/j/-original-imahae3ea2j4mhkt.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/p/t/b/-enriched-transparent-original-imahf9daxb97keh5.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/5/b/f/-original-imahcf2vvgrfbwp2.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mobile/s/k/z/-original-imahggexgfcf3hpf.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/headphone/o/y/e/-enriched-transparent-original-imahgnf4en7phfvt.png?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://rukminim2.flixcart.com/image/800/1070/xif0q/smartwatch/w/k/u/-original-imahauh2ugz3ccd3.jpeg?q=90",
+        "alt": "Page visual asset"
+      },
+      {
+        "src": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/payment-method_69e7ec.svg",
+        "alt": "Page visual asset"
+      }
+    ]
+  }
+}

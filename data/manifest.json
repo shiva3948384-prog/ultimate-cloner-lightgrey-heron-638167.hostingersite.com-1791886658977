@@ -1,0 +1,59 @@
+{
+  "crawledAt": "2026-10-13T10:19:52.669Z",
+  "originUrl": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/",
+  "domain": "lightgrey-heron-638167.hostingersite.com",
+  "totalPages": 6,
+  "totalProducts": 38,
+  "totalImages": 145,
+  "crawlerEngine": "auto",
+  "pagesList": [
+    {
+      "slug": "home",
+      "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/",
+      "title": "Flipkart big sale is live",
+      "category": "generic",
+      "productsCount": 38,
+      "imagesCount": 19
+    },
+    {
+      "slug": "products-index-php-id-iphone17",
+      "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone17",
+      "title": "Online Shopping",
+      "category": "generic",
+      "productsCount": 0,
+      "imagesCount": 23
+    },
+    {
+      "slug": "products-index-php-id-iphone16",
+      "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=iphone16",
+      "title": "Online Shopping",
+      "category": "generic",
+      "productsCount": 0,
+      "imagesCount": 23
+    },
+    {
+      "slug": "products-index-php-id-48dc90ee60e84",
+      "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=48dc90ee60e84",
+      "title": "Online Shopping",
+      "category": "generic",
+      "productsCount": 0,
+      "imagesCount": 26
+    },
+    {
+      "slug": "products-index-php-id-25d20c2b1dc5c",
+      "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=25d20c2b1dc5c",
+      "title": "Online Shopping",
+      "category": "generic",
+      "productsCount": 0,
+      "imagesCount": 26
+    },
+    {
+      "slug": "products-index-php-id-3d56e5edf6f38",
+      "url": "https://lightgrey-heron-638167.hostingersite.com/freedom-fk/products/index.php?id=3d56e5edf6f38",
+      "title": "Online Shopping",
+      "category": "generic",
+      "productsCount": 0,
+      "imagesCount": 28
+    }
+  ]
+}
